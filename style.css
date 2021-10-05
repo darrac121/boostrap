@@ -1,0 +1,45 @@
+[class*="col-"], footer {
+
+}
+body{
+	background-color: gray;
+}
+header{
+	margin-top: 2em;
+}
+#tag1{
+	background-color: #524C4C;
+	color: white;
+}
+#titre{
+	background-color: #A9A9A9;
+	color: red;
+}
+#nom{
+	color: red;
+	background-color: #524C4C;
+}
+h3{
+	text-decoration: underline;
+}
+#interet{
+	background-color: #696969;
+}
+#tt{
+	color: red;
+}
+#pp{
+	color: orange;
+}
+#img{
+	width: 20em;
+	padding-left: 7em;
+}
+#lien{
+	padding-left: 28em;
+	font-size: 2em;
+	color: red;
+}
+td{
+	padding-left: 1em;
+}
